@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafizkhan93
 - 👀 I’m interested in great software with a strong focus on aesthetic UI/UX
 - 🌱 I’m currently a stundet at TU Wien studying Business Informatics
-- 💞️ I’m looking to collaborate with like minded people, that share the same vision of great products
+- 💞️ I’m looking to collaborate with like minded people, that share the same vision of creating great products
 - 📫 How to reach me -> Contact me via E-Mail: hafiz_10@hotmail.com
 
 <!---
